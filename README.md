@@ -18,9 +18,9 @@ Sathi is a healthcare companion web application built to help users manage their
 
 ## 🛠 Tech Stack
 
-- **Frontend:** React / Next.js
+- **Frontend:** React.js / Next.js
 - **Backend:** Node.js, Firebase Functions
-- **Database:** Firebase Firestore
+- **Database:** Firebase Firestore,MongoDb
 - **Authentication:** Firebase Auth
 - **Deployment:** Firebase Hosting
 - **Payment:** Paytm UPI (Scan-to-Pay)
